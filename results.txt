@@ -1,0 +1,4 @@
+-3.00: failed to run test image1, check compilation and execution logs 
+-3.00: failed to run test image2, check compilation and execution logs 
+-3.00: failed to run test image3, check compilation and execution logs 
+-1.00: failed to run test lena, check compilation and execution logs 
